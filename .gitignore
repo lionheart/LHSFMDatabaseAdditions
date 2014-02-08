@@ -1,5 +1,5 @@
 *BACKUP*
-*BASE*
+# *BASE*
 !Base.lproj/
 *REMOTE*
 *.orig
@@ -26,4 +26,3 @@ Pods/
 Podfile.lock
 *.xcworkspace
 
-ghi.token
