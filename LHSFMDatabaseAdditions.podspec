@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LHSFMDatabaseAdditions"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "Some useful additions to FMDB."
   s.homepage     = "http://lionheartsw.com/"
   s.license      = "Apache 2.0"
